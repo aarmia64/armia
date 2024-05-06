@@ -106,7 +106,7 @@ dist
 
 .DS_Store
 
-# python
+
 
 
 # Ignore .husky for new contributors using lefthook while maintaining
