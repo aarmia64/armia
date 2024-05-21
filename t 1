@@ -70,7 +70,7 @@ _repl_history
 
 # dotenv environment variables file
 
-.env.test
+.env
 
 # parcel-bundler cache (https://parceljs.org/)
 
