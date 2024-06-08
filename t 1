@@ -65,7 +65,6 @@ _repl_history
 
 # parcel-bundler cache (https://parceljs.org/)
 
-
 # Next.js build output
 .next
 
