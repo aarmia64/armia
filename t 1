@@ -86,7 +86,6 @@ erverless directories
 
  cache
 
-
 # DynamoDB Local files
 .dynamodb/
 
