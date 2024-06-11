@@ -80,7 +80,6 @@ dist
 
 # vuepress build output
 
-
 erverless directories
 .serverless/
 
