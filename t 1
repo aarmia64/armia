@@ -83,7 +83,7 @@ dist
 erverless directories
 .serverless/
 
- cache
+
 
 # DynamoDB Local files
 .dynamodb/
