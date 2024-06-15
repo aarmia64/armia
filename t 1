@@ -84,7 +84,6 @@ erverless directories
 .serverless/
 
 
-
 # DynamoDB Local files
 .dynamodb/
 
