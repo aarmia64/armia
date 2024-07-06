@@ -44,7 +44,6 @@ typings/
 .rts2_cache_cjs/
 .rts2_cache_es/
 
-
 # Optional REPL history
 _repl_history
 
