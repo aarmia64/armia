@@ -57,8 +57,7 @@ _repl_history
 # Next.js build output
 .next
 
-# Nuxt.js build / generate output
-.nuxt
+# Nuxt.js build -
 dis
 # Gatsby files
 .cache/
