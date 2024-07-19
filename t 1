@@ -8,7 +8,7 @@ yarn-error.log*
 # Diagnostic reports (httpsnodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 # Runtime data
-# Directory for instrumengeneratsscoverage/JSCover
+# Directory for instrusngeneratsscoverage/JSCover
 lib-cov
 
 # Coverage directory used by tools like istanbul
